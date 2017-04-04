@@ -1,7 +1,9 @@
+"Show line numbers by default
+set number
+
 "Default tab setup
 set tabstop=2
 set shiftwidth=2
-set expandtab
 set autoindent
 
 "Load filetype plugins
